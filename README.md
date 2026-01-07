@@ -1,4 +1,4 @@
-# SaaS Admin Matrix | Playwright & TypeScript SDET Framework
+# SaaS-Admin-Playwright | TypeScript SDET Framework | Playwright & TypeScript SDET Framework
 
 ## 🎯 Project Overview
 This is a high-performance E2E automation framework designed for complex SaaS Administrative panels. It demonstrates advanced SDET patterns focusing on **RBAC (Role-Based Access Control)** and session persistence.
